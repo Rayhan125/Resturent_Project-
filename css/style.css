@@ -1,0 +1,206 @@
+header{
+  background-image: url(../img/header.png);
+  height: 900px;
+}
+header .overlay{
+  background: rgba(0, 0, 0, 0.9);
+  height: 900px;
+}
+header a{
+  font-family: Times New Rom;
+  font-size: 18px;
+  color: white;
+  font-weight: 700;
+}
+header a:hover{
+  color: #e58f00;
+}
+.content img{
+  margin-top: 250px;
+}
+.content .tmi{
+  float: left;
+}
+.content .ami{
+  float: right;
+}
+.content .ami h1{
+  color: #e58f00;
+  margin-top: 300px;
+  margin-left: 30px;
+  font-family: impact;
+  font-size: 70px;
+   letter-spacing: 3px;
+   line-height: 1.2;
+}
+.content .ami p{
+  color: #fff;
+  margin-left: 30px;
+  font-family: tahoma;
+  font-size: 25px;
+   line-height: 1.2;
+}
+.content .ami .btn{
+  background: #e58f00;
+  font-family: impact;
+  font-size: 25px;
+  padding: 10px 30px;
+  margin-left: 30px;
+}
+#about{
+  height: 700px;
+  background: #1d1d23;
+  z-index: 1;
+}
+#about img{
+  height: 550px;
+}
+#about .tmi{
+  float: left;
+}
+#about .ami{
+  float: right;
+}
+#about h2{
+  color: #fff;
+  margin-top: 150px;
+  font-family: impact;
+  font-size: 60px;
+   letter-spacing: 3px;
+   line-height: 1.2;
+}
+#about .ami p{
+  color: #fff;
+  font-family: tahoma;
+  font-size: 25px;
+  letter-spacing: 1px;
+   line-height: 1.5;
+}
+#shape{
+  background-image: url(../img/pic-6.png);
+  height: 1600px;
+  background-size: cover;
+  background-color: #1d1d23;
+  overflow: hidden;
+}
+#shape h2{
+  color: #fff;
+  margin-top: 250px;
+  margin-left: 150px;
+  font-family: impact;
+  font-size: 40px;
+   letter-spacing: 3px;
+   line-height: 1.2;
+}
+#shape p{
+  color: #fff;
+  margin-left: 150px;
+  font-family: tahoma;
+  font-size: 25px;
+   line-height: 1.2;
+}
+#shape .kola img{
+  float: right;
+  margin-top: -500px;
+  height: 650px;
+}
+#shape .ruti img{
+  float: right;
+  margin-top:50px;
+  margin-left: 750px;
+  height: 700px;
+}
+#shape .dim img{
+  margin-top:-345px;
+  height: 530px;
+}
+#gallery{
+  height: 1200px;
+  background-color: #1d1d23;
+  overflow: hidden;
+}
+#gallery h2{
+  font-family: impact;
+  font-size: 60px;
+}
+#gallery img{
+  height: 410px;
+  cursor: pointer;
+}
+#enjoy{
+  background-image: url(../img/pic-7.png);
+  height: 800px;
+  background-size: cover;
+}
+#enjoy .card{
+  background: rgba(0,0,0,.5);
+  margin-top: 200px;
+  margin-left: 200px;
+  border: 5px solid #e58f00;
+  width:60%;
+}
+#enjoy .card h2{
+  font-family: impact;
+  font-size: 50px;
+}
+#enjoy .card p{
+  font-family: tahoma;
+  font-size: 27px;
+}
+#team{
+  height: 700px;
+  background: #F79F1F;
+  overflow: hidden;
+}
+#team .card{
+  background: transparent;
+}
+#team img{
+  height: 250px;
+}
+#menu{
+  height: 1000px;
+  background: #1d1d23;
+  overflow: hidden;
+}
+#menu h2{
+  font-family: impact;
+  font-size: 60px;
+}
+#menu .card{
+  background: transparent;
+  cursor: pointer;
+}
+#menu .card h2{
+  color: #e58f00;
+  font-family: impact;
+  font-size: 29px;
+}
+#meal{
+  background-color: #e58f00;
+  height: 400px;
+}
+#meal img{
+  height: 450px;
+  margin-top: -20px;
+}
+#meal h2{
+  font-family: impact;
+  font-size: 50px;
+  margin-left: 30px;
+}
+#meal p{
+  font-family: tahoma;
+  font-size: 27px;
+  width: 80%;
+  margin-left: 30px;
+}
+footer{
+  background-color: #35353b;
+  height: 400px;
+}
+footer i{
+}
+footer p{
+  display: inline-block;
+}
